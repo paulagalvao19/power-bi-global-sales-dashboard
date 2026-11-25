@@ -16,7 +16,8 @@ O dashboard permite explorar os resultados por **ano**, **segmento** e **país**
 
 ## Prévia do dashboard
 
-![Dashboard Analítico de Vendas Globais](dashboard(2).png)
+![Dashboard Analítico de Vendas Globais](Dashboard_analitico.png)
+
 
 ## Ferramenta
 
